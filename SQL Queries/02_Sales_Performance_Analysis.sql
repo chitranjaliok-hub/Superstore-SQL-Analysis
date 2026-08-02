@@ -82,12 +82,12 @@ FROM superstore;
 SALES PERFORMANCE ANALYSIS SUMMARY
 
 - Total sales generated during the analysis period were $2296919.49.
-- Technology category contributed the highest share of revenue, while Category Y generated the lowest sales.
+- Technology category contributed the highest share of revenue, while Office Supplies category generated the lowest sales.
 - Phones emerged as the top revenue-generating product group.
 - West region recorded the highest sales performance, indicating strong market demand.
 - California was the leading contributor to overall revenue.
 - Consumer segment accounted for the largest portion of sales among customer segments.
-- Sales exhibited an overall upward/downward trend over the analysis period.
+- Annual sales declined slightly in 2020 before showing strong growth in 2021 and 2022, with 2022 recording the highest sales.
 - ‘Canon imageCLASS 2200 Advanced Copier’ generated the highest revenue among all products.
 - The average order value was $458.56 per order.
 
