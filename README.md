@@ -38,10 +38,6 @@ Key steps included:
 
 The cleaned dataset is suitable for further business analysis.
 
-## 📁 Project Files
-
-`01_Data_Exploration.sql` — Data discovery, validation, cleaning, and quality checks.
-
 ### 2. Sales Performance Analysis
 
 Sales performance was analyzed across product categories, geographic regions, customer segments, and time periods to identify the primary drivers of business sales.
@@ -71,6 +67,37 @@ Key analyses included:
 - Average Order Value (AOV): **$458.56**
 
 The analysis highlights the products, customer segments, geographic markets, and time periods that contribute most strongly to overall sales performance.
+
+### 3. Profitability Analysis
+
+Profitability was analyzed across categories, subcategories, products, regions, customer segments, and discount levels to identify the strongest and weakest areas of business performance.
+
+Key analyses included:
+
+- Overall profit and profit margin
+- Profitability by category and subcategory
+- Regional profitability
+- Customer segment profitability
+- Most profitable products
+- Loss-making products
+- Impact of discounts on profit
+- Product-level profit margins
+
+### 📊 Profitability Summary
+
+- Total profit: **$286,409.08**
+- Overall profit margin: **12.47%**
+- **Technology** was the most profitable category with **$145,454.95** in profit and a **17.40%** margin
+- **Furniture** generated substantial sales but achieved only a **2.49%** profit margin
+- **Copiers** were the most profitable subcategory, generating **$55,617.82** in profit
+- **Tables** were the largest loss-making subcategory at **-$17,725.48**
+- The **West** was the most profitable region with **$108,418.45** in profit and a **14.94%** margin
+- The **Consumer** segment generated the highest total profit, while **Home Office** achieved the highest profit margin
+- **Canon imageCLASS 2200 Advanced Copier** was the most profitable individual product
+- Aggregate profit became negative at discount levels of **30% and above** in the analyzed data
+
+The analysis shows that high sales alone do not guarantee strong profitability. Product mix, regional performance, and discount strategy all have a significant impact on overall business profitability.
+
 ## 👤 Author
 
 **Chitranjali O.K.**
