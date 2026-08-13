@@ -81,12 +81,13 @@ ORDER BY total_profit DESC;
 CUSTOMER ANALYSIS SUMMARY
 
 - The business served 793 unique customers.
-- Customer ‘Sean Miller’ generated the highest revenue.
-- Customer ‘Tamara Chand’ generated the highest profit contribution.
+- Sean Miller generated the highest total sales.
+- Tamara Chand generated the highest profit contribution.
 - Several customers generated negative profitability despite making purchases.
-- Consumer segment  represented the largest customer group and contributed the highest sales.
-- Repeat customers accounted for a significant share of total orders.
-- Customer spending patterns varied considerably across segments.
+- The Consumer segment represented the largest customer group and contributed the highest total sales.
+- Average Order Value was analyzed across customer segments to compare purchasing behavior.
+- Customer-level profitability analysis helped identify both high-value and loss-making customers.
 
-These findings help identify high-value customers, customer retention opportunities, and profitability drivers across the customer base.
+These findings help identify high-value customers, customer profitability patterns,
+and opportunities to improve customer retention and profitability.
 */
