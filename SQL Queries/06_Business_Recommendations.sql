@@ -21,7 +21,7 @@ Expected Outcome:
 RECOMMENDATION 2
 
 Conduct a detailed review of products generating
-consistent negative profits.
+negative total profit.
 
 Potential Actions:
 - Renegotiate supplier costs.
