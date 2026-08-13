@@ -98,6 +98,34 @@ Key analyses included:
 
 The analysis shows that high sales alone do not guarantee strong profitability. Product mix, regional performance, and discount strategy all have a significant impact on overall business profitability.
 
+### 4. Customer Analysis
+
+Customer-level analysis was performed to understand the customer base, identify high-value customers, evaluate purchasing behavior, and compare customer segments.
+
+Key analyses included:
+
+- Total customer base
+- Top 10 customers by sales
+- Top 10 customers by profit
+- Bottom 10 customers by profit
+- Average revenue per customer
+- Customer order frequency
+- Customer segment performance
+- Average Order Value (AOV) by customer segment
+- Customer profitability distribution
+
+### 📊 Customer Analysis Summary
+
+- The business served **793 unique customers**
+- **Sean Miller** generated the highest total sales
+- **Tamara Chand** generated the highest profit contribution
+- Several customers generated negative profitability despite making purchases
+- The **Consumer** segment represented the largest customer group and contributed the highest total sales
+- Average Order Value was analyzed across customer segments to identify differences in purchasing behavior
+- Customer-level profitability analysis helped identify both high-value and loss-making customers
+
+The analysis helps identify high-value customers, profitability differences, customer purchasing patterns, and opportunities for improving customer retention and profitability.
+
 ## 👤 Author
 
 **Chitranjali O.K.**
