@@ -126,6 +126,37 @@ Key analyses included:
 
 The analysis helps identify high-value customers, profitability differences, customer purchasing patterns, and opportunities for improving customer retention and profitability.
 
+### 5. Regional Analysis
+
+Regional analysis was performed to evaluate sales and profitability across regions, states, and cities and to identify geographic markets with strong or weak business performance.
+
+Key analyses included:
+
+- Regional sales performance
+- Regional profitability
+- Regional profit margins
+- Regional sales and profit comparison
+- Top and bottom states by sales
+- Top and bottom states by profit
+- Top cities by sales
+- Top cities by profit
+- Loss-making cities
+- State-level profit margin analysis
+
+### 📊 Regional Analysis Summary
+
+- The **West** region generated the highest sales revenue at **$725,457.82**
+- The **West** region achieved the highest total profit at **$108,418.45**
+- The **West** region recorded the strongest regional profit margin at **14.94%**
+- **California** was the top-performing state by sales
+- **California** generated the highest total profit among all states at **$76,381.39**
+- **District of Columbia** recorded the highest state-level profit margin at **36.98%**
+- Several states generated substantial sales but delivered relatively weak profitability
+- **New York City** emerged as the strongest revenue-generating market
+- Multiple cities recorded negative profits, indicating potential pricing, discounting, or operational challenges
+
+The analysis highlights geographic performance differences and helps identify regions, states, and cities requiring strategic attention, investment, or profitability improvement initiatives.
+
 ## 👤 Author
 
 **Chitranjali O.K.**
