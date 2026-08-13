@@ -69,7 +69,7 @@ SELECT
 FROM superstore
 GROUP BY segment;
 
--- 9. Customer Profitability Distribution
+-- 9. -- 9. Customer Profitability
 SELECT
     customer,
     ROUND(SUM(profit),2) AS total_profit
