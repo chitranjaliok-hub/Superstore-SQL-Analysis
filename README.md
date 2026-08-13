@@ -193,6 +193,20 @@ Customer-level analysis identified high-revenue and high-profit customers. These
 
 The analysis demonstrates that high sales do not always translate into high profitability. Business decisions should therefore consider both revenue and profit margin when evaluating products, customers, and geographic markets.
 
+## 📊 Visual Insights
+
+### Regional Sales vs Profit
+
+The West region led both sales and total profit, while the Central region showed comparatively weaker profitability.
+
+![Regional Sales vs Profit](images/superstore_regional_sales_profit.png)
+
+### Top 10 States by Total Profit
+
+California generated the highest total profit among all states, followed closely by New York.
+
+![Top 10 States by Total Profit](images/superstore_top10_states_profit.png)
+
 ## 👤 Author
 
 **Chitranjali O.K.**
